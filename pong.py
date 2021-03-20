@@ -145,5 +145,6 @@ def tick():
     wn.update()
 
 
-tick()
-wn.mainloop()
+if __name__ == "__main__":
+    tick()
+    wn.mainloop()
