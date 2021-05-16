@@ -2,6 +2,8 @@
 
 Pong is written in Python and Turtle modules
 
+![Demonstration of pong](demo.gif)
+
 ## Requirements
 
 ### Linux
